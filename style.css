@@ -1,0 +1,17 @@
+head{
+    color: pink;
+}
+h3{
+    color:white;
+}
+p{
+    color: white;
+}
+.name_of_objects{
+    color: dashed blue;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
